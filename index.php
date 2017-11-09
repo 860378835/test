@@ -5,4 +5,7 @@
  * Date: 2017/11/9
  * Time: 11:15
  */
-Bootstrap::run();
+
+include "vendor/autoload.php";
+
+core\Bootstrap::run();
