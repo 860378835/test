@@ -1,0 +1,12 @@
+{
+    "name": "860378835/test",
+    "description": "xuexi composer",
+    "authors": [
+        {
+            "name": "lqs",
+            "email": "878835@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
